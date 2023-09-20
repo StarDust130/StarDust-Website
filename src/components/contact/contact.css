@@ -1,0 +1,86 @@
+.container.contact_container{
+    width: 58%;
+   display: grid;
+    grid-template-columns: 30% 58%;
+    gap: 10%;
+
+}
+.contact_options {
+    display: flex;
+    flex-direction: column;
+    gap:1.2rem;
+}
+.contact_option {
+   background: var(--color-bg-variant);
+    padding: 1.2rem;
+    border-radius: 1.2rem;
+    text-align: center;
+    border: 1px solid transparent;
+    transition: var(--transition);  
+}
+.contact_option:hover{
+    border: 1px solid var(--color-primary);
+    background: transparent;
+    border-color: var(--color-primary-variant);
+}
+.contact_option-icon{
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+.contact_option a{
+    margin-top: 0.7rem;
+    display: inline-block;
+    font-size: 0.8rem;
+}
+/* ===============================FORM============================ */
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+input , textarea{
+    background: transparent;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    border: 2px solid var(--color-primary-variant);
+    transition: var(--transition);  
+    resize: none;
+    color: white;
+    width: 100%;
+}
+input:focus{
+    border-color: var(--color-primary);
+}
+textarea:focus{
+    border-color: var(--color-primary);
+}
+input[type="submit"]{
+    width: max-content;
+    align-self: flex-start;
+    padding: 0.75rem 1.2rem;
+    border-radius: 0.4rem;
+    cursor: pointer;
+    border: 1px solid var(--color-primary);
+    transition: var(--transition);  
+}
+input[type="submit"]:hover{
+    color: var(--color-bg);
+    border-color: transparent;
+}
+/* ===========================MEDIA QUERIES=========================*/
+
+@media screen and (max-width: 1024px) {
+    .container.contact_container{
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+   
+}
+@media screen and (max-width: 600px) {
+    .container.contact_container{
+        width: var(--container-width-sm);
+        grid-template-columns: 1fr;
+        gap: 1.2rem;
+    }
+   
+}
