@@ -1,7 +1,7 @@
  <h1>My Personal Website Repository 👋</h1>
     <p>Welcome to the repository for my personal website! This is where I share the code and assets for my website. 🌐</p>
     <h2>See Live 🔗</h2>
-    <h3> <p>To see my website live, Click Here: <a href="https://grand-dusk-a315e6.netlify.app/#">See Live</a> 🌐</p></h3>
+    <h3> <p>To see my website live, Click Here: <a href="https://stardust130.netlify.app/">See Live</a> 🌐</p></h3>
 
 
   <h2>Features 🚀</h2>
