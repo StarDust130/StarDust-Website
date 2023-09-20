@@ -22,8 +22,7 @@
   <h2>Getting Started 🚀</h2>
     <p>To get started with this project, you can clone the repository and explore the code. 🛠️</p>
     <pre>
-  <code>git clone https://github.com/yourusername/your-repo.gitcd your-repo
-# Add specific instructions here, such as how to run the project locally.
+  <code># git clone https://github.com/StarDust130/StarDust-Website.git.gitcd your-repo
         </code>
     </pre>
 
@@ -33,7 +32,7 @@
     <p>I'd love to hear your feedback and suggestions. Feel free to open an issue or reach out to me via <a href="mailto:csyadav0513@email.com">email</a> or <a href="https://twitter.com/@csyadav130">Twitter</a>. 📫</p>
 
   <h2>License 📝</h2>
-    <p>This project is licensed under the <a href="LICENSE">MIT License</a>. 📜</p>
+    <p>No License. Use Freely. 📜</p>
 
    <hr>
 
