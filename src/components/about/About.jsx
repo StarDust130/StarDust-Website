@@ -40,10 +40,9 @@ function About() {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Est quam
-            earum, obcaecati nobis quia fugiat facilis? Doloremque
-            necessitatibus, quos fugiat facere aperiam adipisci consectetur
-            reiciendis eum quia ut dolorem eligendi?
+           You should hire me as an intern because I bring a strong passion, relevant skills,
+            and a desire to contribute effectively to your team. I am eager to learn and adapt, 
+            ensuring I make a valuable contribution to the company's success.
           </p>
 
           <a href="#contact" className="btn btn-primary">
