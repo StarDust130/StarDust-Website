@@ -1,4 +1,4 @@
-import CV from "../../assets/ChandraShekhar.pdf";
+import CV from "../../assets/CS.pdf";
 
 function CTA() {
   return (
