@@ -23,7 +23,7 @@ function About() {
             <article className="about_card">
               <FaAward className="about_icon" />
               <h5>Experience</h5>
-              <small> 2+ Self-taught  </small>
+              <small> 1+ Self-taught  </small>
             </article>
 
             <article className="about_card">
