@@ -68,7 +68,7 @@ function Contact() {
             <BsWhatsapp className="contact_option-icon" />
             <h4>Whatsapp</h4>
             <h5>91+93XXX XXXXX</h5>
-            <a href="https://media.tenor.com/TKSEpuhns1oAAAAC/haha-baby.gif">
+            <a href="https://media.tenor.com/fErwUXWpx4cAAAAC/privacy-that-is-private.gif">
               Send a Message
             </a>
           </article>
