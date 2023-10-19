@@ -32,8 +32,8 @@ const data = [
     id: 4,
     title: "Quotes Generator",
     image: IMG4,
-    github: "https://github.com/StarDust130/Quotes-Generator.",
-    demo: "https://stardust130.github.io/Quotes-Generator./",
+    github: "https://github.com/StarDust130/React_Quote_Gen",
+    demo: "https://stardust-quote-gen.netlify.app/",
   },
   {
     id: 5,
