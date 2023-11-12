@@ -40,7 +40,6 @@ function Experience() {
                 src="https://img.icons8.com/color/144/typescript.png"
                 alt="typescript"
               />
-               <small>*learning</small>
               <img
                 width="50"
                 height="50"
